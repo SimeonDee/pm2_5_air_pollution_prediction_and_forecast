@@ -8,7 +8,7 @@
 - Only Nongzhanguan and Gucheng stations Air Quality Data were used in this work
 
 
-## Three (3) Forecast Models were built each one based on the following:
+## Three (3) Forecast Models were developed for each algorithm, each one based on the following:
 Lags: 24 hours
 
 1. Univariate Time Series: Considering only the past 24 lags of PM2.5, 
